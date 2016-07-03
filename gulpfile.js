@@ -51,7 +51,7 @@ gulp.task('sass', function () {
         .pipe(gulp.dest('assets/css'));
 });
 
-/* 
+/*
 * Wang is trying to Gulp stuff
 */
 
